@@ -1,0 +1,10 @@
+Flask
+SQLAlchemy
+Flask-SQLAlchemy
+Flask-JWT-Extended
+psycopg2-binary
+Flask_Migrate
+Flask-Admin==1.6.1
+Flask-Login
+python-dotenv
+WTForms==3.1.2
